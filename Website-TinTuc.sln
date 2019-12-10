@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website-TinTuc", "Website-TinTuc\Website-TinTuc.csproj", "{33285704-8961-40F4-BC75-F5D93E87DDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33285704-8961-40F4-BC75-F5D93E87DDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33285704-8961-40F4-BC75-F5D93E87DDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33285704-8961-40F4-BC75-F5D93E87DDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33285704-8961-40F4-BC75-F5D93E87DDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C4DB66C-85BC-45F8-AE65-54A2F1D17724}
+	EndGlobalSection
+EndGlobal
