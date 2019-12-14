@@ -13,8 +13,6 @@ namespace Website_TinTuc.Models
         public int Tin_ID { get; set; }
         [Required, StringLength(100), Display(Name = "ID")]
         public string NoiDung { get; set; }
-        [Required, StringLength(1000), Display(Name = "Noi Dung"),
-        DataType(DataType.MultilineText)]
         public string NgayGui { get; set; }
         public string HinhAnh { get; set; }
         public int? TGia_ID { get; set; }

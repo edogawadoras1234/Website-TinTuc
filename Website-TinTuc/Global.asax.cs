@@ -18,6 +18,7 @@ namespace Website_TinTuc
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
             // Initialize the book database.
             Database.SetInitializer(new DuLieuTinTuc());
         }

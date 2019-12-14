@@ -61,10 +61,12 @@
           <!--******thêm logo*****-->
         <div id="TitleContent" style="text-align: center">
          <a runat="server" href="~/">
-         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/book_logo.jpg"
+         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logo.png"
         BorderStyle="None" />
          </a><br />
         </div>
+
+        
          <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
