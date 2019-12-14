@@ -9,10 +9,7 @@
 <img src="Screenshots/trangchu.png"/>
 <h3> Tin tức</h3>
 <p>Trang thể hiện những thông tin mới nhất</p>
-<img src="Screenshots/trangchu.png"/>
-<h3> Tin tức</h3>
-<p>Trang thể hiện những thông tin mới nhất</p>
-<img src="Screenshots/trangchu.png"/>
+<img src="Screenshots/tintuc.png"/>
 <p>Bấm vào tin bất kì để đọc</p>
 <img src="Screenshots/chitiet.png"/>
 <h3> Thanh menu dưới logo giúp ta lọc được tác giả của tin tức</h3>
